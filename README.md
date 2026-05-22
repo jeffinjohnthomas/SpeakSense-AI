@@ -4,13 +4,14 @@ Live Call Sentiment & Diagnostic Platform. Real-time audio processing, transcrip
 
 ## 📸 Screenshots
 
-*(Replace the placeholder files in the `screenshots` folder with your actual images!)*
+### Raw Audio Interface
+![Raw Audio Interface](screenshots/rawaudio.png)
 
-### Frontend Interface
-![Frontend Interface](screenshots/frontend.png)
+### Chat View
+![Chat View](screenshots/chatview.png)
 
-### Backend API Docs
-![Backend API](screenshots/backend.png)
+### Call Analysis
+![Call Analysis](screenshots/image.png)
 
 ---
 
